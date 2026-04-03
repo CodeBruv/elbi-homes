@@ -46,7 +46,7 @@ const ContactSection = () => {
               value={form.name}
               onChange={(e) => setForm({ ...form, name: e.target.value })}
               className="w-full rounded-xl border border-border bg-card px-4 py-3 text-sm outline-none transition-all focus:ring-2 focus:ring-primary/30 focus:border-primary"
-              placeholder="John Doe"
+              placeholder="Your Name"
             />
           </div>
 
@@ -61,7 +61,7 @@ const ContactSection = () => {
               value={form.email}
               onChange={(e) => setForm({ ...form, email: e.target.value })}
               className="w-full rounded-xl border border-border bg-card px-4 py-3 text-sm outline-none transition-all focus:ring-2 focus:ring-primary/30 focus:border-primary"
-              placeholder="john@example.com"
+              placeholder="yourmail@example.com"
             />
           </div>
 
