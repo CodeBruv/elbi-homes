@@ -41,7 +41,7 @@ export const properties: Property[] = [
     id: "3",
     title: "Horizon Rooftop Villa",
     shortDescription: "Exclusive rooftop villa with an infinity pool and sunset views.",
-    fullDescription: "Perched atop the city, this exclusive rooftop villa offers an unparalleled lifestyle. The infinity pool stretches toward the horizon, framing golden sunsets every evening. Inside, the space balances modern minimalism with warm textures, creating an atmosphere of refined tranquility.",
+    fullDescription: "Perched atop the city, this exclusive rooftop villa offers an unparalleled lifestyle. The infinity pool stretches toward the horizon, framing golden sunsets every evening. Inside, the space balances modern minimalism with warm hot textures, creating an atmosphere of refined tranquility.",
     image: property3,
     tag: "Premium",
     price: "£137,000",
